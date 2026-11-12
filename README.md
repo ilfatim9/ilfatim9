@@ -14,11 +14,4 @@
 
 I’m interested in data analysis, AI, and web development. I’m currently building my skills in data visualization and machine learning, and I’d love to collaborate with other developers on new projects.
 
-### Selected projects
 
-- **[Mu’een](https://github.com/ilfatim9/Mu-een-prototyp)** — A campus accessibility prototype that brings together class schedules, facility updates, and support requests.
-- **[Parallel Ray Tracing](https://github.com/ilfatim9/Parallel-ray-tracing)** — A C++ ray tracer parallelized with OpenMP to explore how thread count affects rendering time.
-
-### Languages & tools
-
-`Python` · `C++` · `Java` · `JavaScript` · `Power BI`
