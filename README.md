@@ -34,20 +34,6 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<!-- Add your best 2-3 projects here, for example: -->
-<!--
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](link) | One-line description | Python, Power BI |
--->
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
