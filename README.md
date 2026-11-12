@@ -1,1 +1,5 @@
-# ilfatima9
+- 👋 Hi, I’m Fatimah Almomen, a senior Computer Science student at Imam Abdulrahman Bin Faisal University.
+- 👀 I’m interested in data analysis, AI, and web development.
+- 👩‍💻 I’m building my skills in data visualization and machine learning.
+- 👭 I’d love to collaborate with other developers on new projects.
+- 📫 Reach me at [fatima7almumen@gmail.com](mailto:fatima7almumen@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/fatimah-almomen-71a151318).
