@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  ✨ Thanks for stopping by! Feel free to reach out. ✨
+  ✨ Feel free to reach out. ✨
 </p>
